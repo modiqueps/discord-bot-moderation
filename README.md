@@ -1,4 +1,4 @@
-# ModiquePS Discord Moderation
+# Modique Project Studios Discord Moderation
 
 An open-source moderation bot for Discord servers: slash commands with role hierarchy checks, automatic roles, member-goal tracking, cooldowns, MongoDB persistence, and optional sharding.
 
